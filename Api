@@ -1,0 +1,130 @@
+{
+  "title": "E-Commerce API Documentation",
+  "baseURL": "http://localhost:3001/api/categories",
+  "data": [
+    {
+      "_id": "65a41fece6d4a8e622562091",
+      "email": "yadugaurav297@gmail.com",
+      "firstName": "Gaurav",
+      "lastName": "Yadav",
+      "password": "ffdff",
+      "userType": "buyer"
+    },
+    {
+      "_id": "65a43752e6d4a8e6225620b9",
+      "email": "abcn@gmail.com",
+      "firstName": "Gaurav",
+      "lastName": "Yadav",
+      "password": "asf",
+      "userType": "seller"
+    },
+    {
+      "_id": "65a437e8e6d4a8e6225620be",
+      "id": 10,
+      "Category_display_name": "apparel",
+      "title": "Ronded Neck",
+      "price": "500",
+      "description": "for Boys And Girls",
+      "imageUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "inStock": true,
+      "Created_at": "2024-01-14T19:37:12.347Z",
+      "Updated_at": "2024-01-14T19:37:12.347Z"
+    },
+    {
+      "_id": "65a43856e6d4a8e6225620c1",
+      "id": 11,
+      "Category_display_name": "apparel",
+      "title": "Jacket",
+      "price": "680",
+      "description": "All Time Best Jacket",
+      "imageUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "inStock": true,
+      "Created_at": "2024-01-14T19:39:02.702Z",
+      "Updated_at": "2024-01-14T19:39:02.702Z"
+    },
+    {
+      "_id": "65a438dbe6d4a8e6225620c5",
+      "id": 12,
+      "Category_display_name": "apparel",
+      "title": "Rounde Neck",
+      "price": "690",
+      "description": "Blue T- Shirt For Boys",
+      "imageUrl": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "inStock": true,
+      "Created_at": "2024-01-14T19:41:15.785Z",
+      "Updated_at": "2024-01-14T19:41:15.785Z"
+    },
+    {
+      "_id": "65a43b16e6d4a8e6225620d2",
+      "id": 6,
+      "Category_display_name": "electronics",
+      "title": "HardDisk",
+      "price": "3000",
+      "description": "Blach HD Hard Disk",
+      "imageUrl": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "inStock": true,
+      "Created_at": "2024-01-14T19:50:46.650Z",
+      "Updated_at": "2024-01-14T19:50:46.650Z"
+    },
+    {
+      "_id": "65a43b94e6d4a8e6225620d5",
+      "id": 7,
+      "Category_display_name": "electronics",
+      "title": "Monitor",
+      "price": "15000",
+      "description": "Black Monitor",
+      "imageUrl": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "inStock": true,
+      "Created_at": "2024-01-14T19:52:52.489Z",
+      "Updated_at": "2024-01-14T19:52:52.489Z"
+    },
+    {
+      "_id": "65a43bf9e6d4a8e6225620d8",
+      "id": 8,
+      "Category_display_name": "electronics",
+      "title": "Gaming Monitor",
+      "price": "20000",
+      "description": "Dark Black Monitor",
+      "imageUrl": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "inStock": false,
+      "Created_at": "2024-01-14T19:54:33.005Z",
+      "Updated_at": "2024-01-14T19:54:33.005Z"
+    },
+    {
+      "_id": "65a43e77e6d4a8e6225620e2",
+      "id": 9,
+      "Category_display_name": "footwear",
+      "title": "White Shoes",
+      "price": "3000",
+      "description": "White Shoes for Girls and Boys",
+      "imageUrl": "https://media.istockphoto.com/id/1149654373/photo/creative-minimal-paper-idea-concept-white-shoe-with-white-background-3d-render-3d-illustration.jpg?s=1024x1024&w=is&k=20&c=9HN481QAehGnJvKvDBp7RPnItSenX1pHy4ARHtylCqQ=",
+      "inStock": true,
+      "Created_at": "2024-01-14T20:05:11.328Z",
+      "Updated_at": "2024-01-14T20:05:11.328Z"
+    },
+    {
+      "_id": "65a43f0de6d4a8e6225620e6",
+      "id": 10,
+      "Category_display_name": "footwear",
+      "title": "Men's Shoes",
+      "price": "950",
+      "description": "Shoes White",
+      "imageUrl": "https://media.istockphoto.com/id/1149654373/photo/creative-minimal-paper-idea-concept-white-shoe-with-white-background-3d-render-3d-illustration.jpg?s=1024x1024&w=is&k=20&c=9HN481QAehGnJvKvDBp7RPnItSenX1pHy4ARHtylCqQ=",
+      "inStock": true,
+      "Created_at": "2024-01-14T20:07:41.461Z",
+      "Updated_at": "2024-01-14T20:07:41.461Z"
+    },
+    {
+      "_id": "65a44b7c7ae9fe4f3b78b718",
+      "id": 11,
+      "Category_display_name": "electronics",
+      "title": "xyz",
+      "price": "50",
+      "description": "xyz",
+      "imageUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "inStock": true,
+      "Created_at": "2024-01-14T21:00:44.062Z",
+      "Updated_at": "2024-01-14T21:00:44.062Z"
+    }
+  ]
+}
